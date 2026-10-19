@@ -553,6 +553,9 @@ async function bookRide() {
           </div>
         </div>
 
+
+
+
         {/* Mapbox map */}
         <div className="order-1 min-h-64 overflow-hidden rounded-2xl bg-gray-100 lg:order-2 lg:min-h-[620px]">
          <MapView
